@@ -1,0 +1,503 @@
+<?php include_once('components/header.php'); ?>
+<?php include_once('components/navbar.php'); ?>
+        
+
+        <div class="homepage-slides owl-carousel">
+            <div class="single-slide-item" style="background-image: url(assets/img/slider/slider-1.jpg);">
+                <div class="overlay"></div>
+                <div class="hero-area-content">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-12 wow fadeInUp animated" data-wow-delay=".3s">
+                                <div class="section-title">
+                                    <h6>Welcome to REFUEL</h6>
+                                    <h1>Best Refuel <b>Service</b> <br> For You</h1>
+                                    <p> There are many variations of passages of Lorem Ipsum available but the majority <br> have suffered alteration in some form, by injected humour.</p>
+                                </div>
+                                <a href="price.html" class="main-btn">Know More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="single-slide-item hero-area-bg-2" style="background-image: url(assets/img/slider/slider-2.jpg);">
+                <div class="overlay"></div>
+                <div class="hero-area-content">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-12 wow fadeInUp animated" data-wow-delay=".3s">
+                                <div class="section-title">
+                                    <h6>Since in 2000</h6>
+                                    <h1>Top Rated <b>Company</b> <br> In The World</h1>
+                                    <p> There are many variations of passages of Lorem Ipsum available but the majority <br> have suffered alteration in some form, by injected humour.</p>
+                                </div>
+                                <a href="price.html" class="main-btn">Know More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="single-slide-item hero-area-bg-2" style="background-image: url(assets/img/slider/slider-3.jpg);">
+                <div class="overlay"></div>
+                <div class="hero-area-content">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-12 wow fadeInUp animated" data-wow-delay=".3s">
+                                <div class="section-title">
+                                    <h6>Since in 2000</h6>
+                                    <h1>Top Rated <b>Company</b> <br> In The World</h1>
+                                    <p> There are many variations of passages of Lorem Ipsum available but the majority <br> have suffered alteration in some form, by injected humour.</p>
+                                </div>
+                                <a href="price.html" class="main-btn">Know More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="promo-area">
+            <div class="promo-wrapper">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-3 col-sm-6">
+                            <div class="single-counter-box wow fadeInLeft" data-wow-delay=".6s ">
+                                <p class="counter-number"><span>7.00</span> <small class="qty">ltr</small></p>
+                                <h6>Petrol</h6>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-6">
+                            <div class="single-counter-box wow fadeInLeft" data-wow-delay=".8s">
+                                <p class="counter-number"><span>8.50</span> <small class="qty">ltr</small></p>
+                                <h6>Gas</h6>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-6">
+                            <div class="single-counter-box wow fadeInLeft" data-wow-delay=".2s">
+                                <p class="counter-number"><span>6.00</span> <small class="qty">ltr</small></p>
+                                <h6>Octane</h6>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-6">
+                            <div class="single-counter-box wow fadeInLeft" data-wow-delay=".4s">
+                                <p class="counter-number"><span>4.00</span> <small class="qty">ltr</small></p>
+                                <h6>Diesel</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="about-area section-padding pt-120 pb-0">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12 col-sm-12 wow fadeInUp" data-wow-delay=".4s">
+                        <div class="info-img">
+                            <img src="assets/img/about/about.jpg" alt>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 wow fadeInLeft" data-wow-delay=".3s">
+                        <div class="info-content-area mb-50">
+                            <div class="section-title">
+                                <h6>About Us</h6>
+                                <h2>We Are Top Rated <b>Company</b> In The World</h2>
+                            </div>
+                            <p>There are many variations of passages available but the majority have suffered alteration in some form by injected humour or randomised words which don't look even slightly believable.</p>
+                            <p><i class="far fa-dot-circle"></i> Sed ut perspiciatis unde omnis iste natus error .</p>
+                            <p><i class="far fa-dot-circle"></i> At vero eos accusamus iusto odio dignissimos. </p>
+                            <p><i class="far fa-dot-circle"></i> We denounce with righteous indignation.</p>
+                            <a href="about.html" class="main-btn">Know More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="service-1" class="services-area gray-bg section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="offset-lg-2 col-lg-8 text-center">
+                        <div class="section-title">
+                            <h6>Services</h6>
+                            <h2>Best Services</b></h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="single-serv-item mt-30 wow fadeInLeft" data-wow-delay=".2s">
+                            <div class="serv-icon">
+                                <img src="assets/img/icon/1.png" alt>
+                            </div>
+                            <div class="serv-content">
+                                <h5>Solid Octane</h5>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered.</p>
+                            </div>
+                            <a href="single-service.html" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="single-serv-item active mt-30 wow fadeInLeft" data-wow-delay=".4s">
+                            <div class="serv-icon">
+                                <img src="assets/img/icon/5.png" alt>
+                            </div>
+                            <div class="serv-content">
+                                <h5>Pure Diesel</h5>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered.</p>
+                            </div>
+                            <a href="single-service.html" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="single-serv-item mt-30 wow fadeInLeft" data-wow-delay=".6s">
+                            <div class="serv-icon">
+                                <img src="assets/img/icon/4.png" alt>
+                            </div>
+                            <div class="serv-content">
+                                <h5>Light Petrol</h5>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered.</p>
+                            </div>
+                            <a href="single-service.html" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="single-serv-item mt-30 wow fadeInLeft" data-wow-delay=".6s">
+                            <div class="serv-icon">
+                                <img src="assets/img/icon/3.png" alt>
+                            </div>
+                            <div class="serv-content">
+                                <h5>CNG Gas</h5>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered.</p>
+                            </div>
+                            <a href="single-service.html" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="single-serv-item mt-30 wow fadeInLeft" data-wow-delay=".6s">
+                            <div class="serv-icon">
+                                <img src="assets/img/icon/2.png" alt>
+                            </div>
+                            <div class="serv-content">
+                                <h5>Car Cleaning</h5>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered.</p>
+                            </div>
+                            <a href="single-service.html" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="single-serv-item  mt-30 wow fadeInLeft" data-wow-delay=".6s">
+                            <div class="serv-icon">
+                                <img src="assets/img/icon/6.png" alt>
+                            </div>
+                            <div class="serv-content">
+                                <h5>Electric Charging</h5>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered.</p>
+                            </div>
+                            <a href="single-service.html" class="read-more">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="skill-area">
+            <div class="skill-content">
+                <div class="section-title mb-30">
+                    <h6>Our Achievement</h6>
+                    <h2>Best Refuel Service For You</h2>
+                </div>
+                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                <div class="row no-gutters mt-40">
+                    <div class="col-lg-6 col-md-6 col-sm-6">
+                        <div class="single-counter-box one">
+                            <div class="fact-icon">
+                                <i class="fal fa-user-friends"></i>
+                            </div>
+                            <p class="counter-number"><span>3000</span>+</p>
+                            <h6>Satisfied Client</h6>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6">
+                        <div class="single-counter-box two">
+                            <div class="fact-icon">
+                                <i class="fal fa-globe"></i>
+                            </div>
+                            <p class="counter-number"><span>180</span></p>
+                            <h6>Worldwide Services</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="row no-gutters">
+                    <div class="col-lg-6 col-md-6 col-sm-6">
+                        <div class="single-counter-box three">
+                            <div class="fact-icon">
+                                <i class="fal fa-mug-hot"></i>
+                            </div>
+                            <p class="counter-number"><span>1000</span></p>
+                            <h6>Cup Of Tea</h6>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6">
+                        <div class="single-counter-box four">
+                            <div class="fact-icon">
+                                <i class="fal fa-award"></i>
+                            </div>
+                            <p class="counter-number"><span>50</span></p>
+                            <h6>Total Awards</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="skill-bg bg-cover">
+                <div class="overlay">
+                </div>
+                <div class="pop-up-video">
+                    <a href="../../www.youtube.com/watch2b35.html?v=ckHzmP1evNU" class="video-play-btn video-btn">
+                        <i class="fal fa-play-circle"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="faq-area section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 wow fadeInRight" data-wow-delay=".3s">
+                        <div class="faq-img">
+                            <img src="assets/img/faq.jpg" alt>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 wow fadeInRight" data-wow-delay=".4s">
+                        <div class="section-title">
+                            <h6>FAQ</h6>
+                            <h2>Frequently Asked Questions</h2>
+                        </div>
+                        <div class="styled-faq">
+                            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingOne">
+                                        <h6 class="panel-title">
+                                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                                How can I place a order in the filling station?
+                                                <i class="fal fa-angle-up up"></i>
+                                                <i class="fal fa-angle-down down"></i>
+                                            </a>
+                                        </h6>
+                                    </div>
+                                    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+                                        <div class="panel-body">
+                                            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour or randomised words.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingTwo">
+                                        <h6 class="panel-title">
+                                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                                How can I register in the filling station?
+                                                <i class="fal fa-angle-up up"></i>
+                                                <i class="fal fa-angle-down down"></i>
+                                            </a>
+                                        </h6>
+                                    </div>
+                                    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                                        <div class="panel-body">
+                                            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour or randomised words.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingThree">
+                                        <h6 class="panel-title">
+                                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                Which payment method do you support?
+                                                <i class="fal fa-angle-up up"></i>
+                                                <i class="fal fa-angle-down down"></i>
+                                            </a>
+                                        </h6>
+                                    </div>
+                                    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                                        <div class="panel-body">
+                                            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour or randomised words.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading active" role="tab" id="headingSeven">
+                                        <h6 class="panel-title">
+                                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                                How can I collect my order?
+                                                <i class="fal fa-angle-up up"></i>
+                                                <i class="fal fa-angle-down down"></i>
+                                            </a>
+                                        </h6>
+                                    </div>
+                                    <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
+                                        <div class="panel-body">
+                                            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour or randomised words.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="facility-area dark-bg section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="offset-lg-2 col-lg-8 text-center">
+                        <div class="section-title">
+                            <h6>Facility</h6>
+                            <h2>Best Facility</b></h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="single-facility-area wow fadeInLeft" data-wow-delay=".2s">
+                            <div class="facility-icon">
+                                <i class="fal fa-wifi"></i>
+                            </div>
+                            <h4>Free Wifi Service</h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="single-facility-area wow fadeInLeft" data-wow-delay=".4s">
+                            <div class="facility-icon">
+                                <i class="fal fa-utensils-alt"></i>
+                            </div>
+                            <h4>Restaurant Service</h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay=".6s">
+                        <div class="single-facility-area">
+                            <div class="facility-icon">
+                                <i class="fal fa-child"></i>
+                            </div>
+                            <h4>Children's Play Ground</h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="single-facility-area wow fadeInLeft" data-wow-delay=".8s">
+                            <div class="facility-icon">
+                                <i class="fal fa-tv"></i>
+                            </div>
+                            <h4>Watch TV</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="blog-area gray-bg section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12 col-12">
+                        <div class="section-title">
+                            <h6>Blog</h6>
+                            <h2>Latest Blog</b></h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 text-right">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="single-blog-item wow fadeInLeft" data-wow-delay=".4s">
+                            <div class="blog-bg">
+                                <img src="assets/img/blog/1.jpg" alt>
+                            </div>
+                            <div class="blog-content">
+                                <p class="blog-meta">
+                                    <span class="mr-3"><i class="far fa-user-circle"></i>Admin</span>
+                                    <span> <i class="far fa-calendar-alt"></i>02 FEB, 2023</span>
+                                </p>
+                                <h5><a href="single-blog.html">Sed ut perspiciatis unde omnis iste natus error sit </a>
+                                </h5>
+                                <p>There are injected humour words randomised words which don't look even slightly believable.</p>
+                                <a href="single-blog.html" class="read-more">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="single-blog-item wow fadeInLeft" data-wow-delay=".6s">
+                            <div class="blog-bg">
+                                <img src="assets/img/blog/2.jpg" alt>
+                            </div>
+                            <div class="blog-content">
+                                <p class="blog-meta">
+                                    <span class="mr-3"><i class="far fa-user-circle"></i>Admin</span>
+                                    <span> <i class="far fa-calendar-alt"></i>02 FEB, 2023</span>
+                                </p>
+                                <h5><a href="single-blog.html">At vero eos et accusamus et iusto odio dignissimos </a></h5>
+                                <p>There are injected humour words randomised words which don't look even slightly believable.</p>
+                                <a href="single-blog.html" class="read-more">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="single-blog-item wow fadeInLeft" data-wow-delay=".8s">
+                            <div class="blog-bg">
+                                <img src="assets/img/blog/3.jpg" alt>
+                            </div>
+                            <div class="blog-content">
+                                <p class="blog-meta">
+                                    <span class="mr-3"><i class="far fa-user-circle"></i>Admin</span>
+                                    <span> <i class="far fa-calendar-alt"></i>02 FEB, 2023</span>
+                                </p>
+                                <h5><a href="single-blog.html">There are many variations of passages available </a></h5>
+                                <p>There are injected humour words randomised words which don't look even slightly believable.</p>
+                                <a href="single-blog.html" class="read-more">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="client-area pt-50 pb-40">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="logo-carousel owl-carousel">
+                            <div class="single-logo-wrapper">
+                                <div class="logo-inner-item">
+                                    <img src="assets/img/client/1.png" alt>
+                                </div>
+                            </div>
+                            <div class="single-logo-wrapper">
+                                <div class="logo-inner-item">
+                                    <img src="assets/img/client/2.png" alt>
+                                </div>
+                            </div>
+                            <div class="single-logo-wrapper">
+                                <div class="logo-inner-item">
+                                    <img src="assets/img/client/3.png" alt>
+                                </div>
+                            </div>
+                            <div class="single-logo-wrapper">
+                                <div class="logo-inner-item">
+                                    <img src="assets/img/client/4.png" alt>
+                                </div>
+                            </div>
+                            <div class="single-logo-wrapper">
+                                <div class="logo-inner-item">
+                                    <img src="assets/img/client/5.png" alt>
+                                </div>
+                            </div>
+                            <div class="single-logo-wrapper">
+                                <div class="logo-inner-item">
+                                    <img src="assets/img/client/6.png" alt>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+<?php include_once('components/footer.php'); ?>
