@@ -4,7 +4,6 @@
 <style>
     .customCared {
         height: 16rem;
-
     }
 </style>
 <div class="homepage-slides owl-carousel">
