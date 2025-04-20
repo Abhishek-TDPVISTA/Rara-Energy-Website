@@ -92,6 +92,7 @@
     .header-area .navigation {
         padding: 0 30px;
         margin-top: -65px;
+        background: transparent;
         margin-top: 0
     }
 

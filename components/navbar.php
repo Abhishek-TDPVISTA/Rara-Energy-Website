@@ -6,26 +6,6 @@
         <div class="loader-rect"></div>
     </div>
 </div>
-<!-- 
-        <div class="header-top">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 col-md-12 col-sm-12">
-                        <div class="contact-info">
-                            <a href="mailto:support@raraenergy.com" class="mr-3"><i class="fal fa-envelope-open"></i>support@raraenergy.com</a>
-                            <a href="#"><i class="fal fa-map-marker-alt"></i>United Arab Emirates</a>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-12 col-sm-12 text-right">
-                        <div class="site-info">
-                            <div class="social-area">
-                                <a href="https://www.linkedin.com/company/rara-energy/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
 
 <header class="header-area">
     <div class="sticky-area">
@@ -61,11 +41,11 @@
                                                 <i class="far fa-angle-down"></i>
                                             </a>
                                             <ul class="sub-menu">
-                                                <li><a href="/hydrogen.php"><i class="fal fa-minus"></i>Hydrogen
+                                                <li><a href="/hydrogen.php"></i>Hydrogen
                                                         Project</a></li>
-                                                <li><a href="/field.php"><i class="fal fa-minus"></i>Field Development
+                                                <li><a href="/field.php"></i>Field Development
                                                         Planning</a></li>
-                                                <li><a href="/simulation.php"><i class="fal fa-minus"></i>Simulation
+                                                <li><a href="/simulation.php"></i>Simulation
                                                         Studies</a></li>
                                             </ul>
                                         </li>
@@ -74,8 +54,8 @@
                                                 <i class="far fa-angle-down"></i>
                                             </a>
                                             <ul class="sub-menu">
-                                                <li><a href="team.php"><i class="fal fa-minus"></i>Our Team</a></li>
-                                                <li><a href="partners.php"><i class="fal fa-minus"></i>Global Reach</a>
+                                                <li><a href="team.php"></i>Our Team</a></li>
+                                                <li><a href="partners.php"></i>Global Reach</a>
                                                 </li>
                                             </ul>
                                         </li>
@@ -84,28 +64,34 @@
                                                 <i class="far fa-angle-down"></i>
                                             </a>
                                             <ul class="sub-menu">
-                                                <li><a href="training.php#101"><i class="fal fa-minus"></i>CCUS</a></li>
-                                                <li><a href="training.php#hydrogen"><i
-                                                            class="fal fa-minus"></i>Hydrogen</a></li>
+                                                <li><a href="training.php#101"></i>CCUS</a></li>
+                                                <li><a href="training.php#hydrogen"></i>Hydrogen</a></li>
                                             </ul>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#">Events
+                                            <a class="nav-link" href="#">Highlights 
                                                 <i class="far fa-angle-down"></i>
                                             </a>
                                             <ul class="sub-menu">
                                                 <li>
                                                     <a href="raraenergydinner.php">
-                                                        <i class="fal fa-minus"></i>
-                                                        Event in Abu Dhabi At UAE
+                                                        </i>
+                                                        Rara Energy Networking Event
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="ciphd_2024_at_iit_dhanbad.php">
-                                                        <i class="fal fa-minus"></i>
+                                                        </i>
                                                         ICPHD 2024 AT IIT Dhanbad
                                                     </a>
                                                 </li>
+                                                <li>
+                                                    <a href="podcast.php">
+                                                        </i>
+                                                        Energy Podcast
+                                                    </a>
+                                                </li>
+                                               
                                             </ul>
                                         </li>
                                         <li class="nav-item">
@@ -127,9 +113,9 @@
                                                         <i class="far fa-angle-down"></i>
                                                     </a>
                                                     <ul class="sub-menu">
-                                                        <li><a href="blog-classic.php"><i class="fal fa-minus"></i> Blog Classic</a></li>
-                                                        <li><a href="blog-grid.php"><i class="fal fa-minus"></i> Blog Grid</a></li>
-                                                        <li><a href="single-blog.php"><i class="fal fa-minus"></i> Blog Details</a></li>
+                                                        <li><a href="blog-classic.php"></i> Blog Classic</a></li>
+                                                        <li><a href="blog-grid.php"></i> Blog Grid</a></li>
+                                                        <li><a href="single-blog.php"></i> Blog Details</a></li>
                                                     </ul>
                                                 </li> -->
                                         <!-- <li class="nav-item">
@@ -137,9 +123,9 @@
                                                         <i class="far fa-angle-down"></i>
                                                     </a>
                                                     <ul class="sub-menu">
-                                                        <li><a href="index.php"><i class="fal fa-minus"></i> Home Demo 01</a></li>
-                                                        <li><a href="index2.php"><i class="fal fa-minus"></i> Home Demo 02</a></li>
-                                                        <li><a href="index3.php"><i class="fal fa-minus"></i> Home Demo 03</a></li>
+                                                        <li><a href="index.php"></i> Home Demo 01</a></li>
+                                                        <li><a href="index2.php"></i> Home Demo 02</a></li>
+                                                        <li><a href="index3.php"></i> Home Demo 03</a></li>
                                                     </ul>
                                                 </li> -->
                                         <!-- <li class="nav-item">
@@ -156,9 +142,9 @@
                                                         <i class="far fa-angle-down"></i>
                                                     </a>
                                                     <ul class="sub-menu">
-                                                        <li><a href="services-1.php"><i class="fal fa-minus"></i> Services 01</a></li>
-                                                        <li><a href="services-2.php"><i class="fal fa-minus"></i> Services 02</a></li>
-                                                        <li><a href="single-service.php"><i class="fal fa-minus"></i> Service Details</a></li>
+                                                        <li><a href="services-1.php"></i> Services 01</a></li>
+                                                        <li><a href="services-2.php"></i> Services 02</a></li>
+                                                        <li><a href="single-service.php"></i> Service Details</a></li>
                                                     </ul>
                                                 </li> -->
 
@@ -167,16 +153,16 @@
                                                         <i class="far fa-angle-down"></i>
                                                     </a>
                                                     <ul class="sub-menu">
-                                                        <li><a href="404.php"><i class="fal fa-minus"></i> 404 Error</a></li>
-                                                        <li><a href="choose-us.php"><i class="fal fa-minus"></i> Why Choose Us</a></li>
-                                                        <li><a href="login.php"><i class="fal fa-minus"></i> Login</a></li>
-                                                        <li><a href="register.php"><i class="fal fa-minus"></i> Register</a></li>
-                                                        <li><a href="forgot-password.php"><i class="fal fa-minus"></i> Forgot Password</a></li>
-                                                        <li><a href="team.php"><i class="fal fa-minus"></i> Our Team</a></li>
-                                                        <li><a href="price.php"><i class="fal fa-minus"></i> Pricing</a></li>
-                                                        <li><a href="faq.php"><i class="fal fa-minus"></i> FAQ</a></li>
-                                                        <li><a href="privacy-policy.php"><i class="fal fa-minus"></i> Privacy Policy</a></li>
-                                                        <li><a href="term-condition.php"><i class="fal fa-minus"></i> Terms & Conditions</a></li>
+                                                        <li><a href="404.php"></i> 404 Error</a></li>
+                                                        <li><a href="choose-us.php"></i> Why Choose Us</a></li>
+                                                        <li><a href="login.php"></i> Login</a></li>
+                                                        <li><a href="register.php"></i> Register</a></li>
+                                                        <li><a href="forgot-password.php"></i> Forgot Password</a></li>
+                                                        <li><a href="team.php"></i> Our Team</a></li>
+                                                        <li><a href="price.php"></i> Pricing</a></li>
+                                                        <li><a href="faq.php"></i> FAQ</a></li>
+                                                        <li><a href="privacy-policy.php"></i> Privacy Policy</a></li>
+                                                        <li><a href="term-condition.php"></i> Terms & Conditions</a></li>
                                                     </ul>
                                                 </li>
                                                 -->

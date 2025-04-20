@@ -735,6 +735,14 @@ button[type=submit] {
     top: 60px
 }
 
+#header-2.header-area .is-sticky .sub-sub-menu {
+    top: 60px
+}
+
+#header-2 .is-sticky .main-menu li:hover .sub-sub-menu {
+    top: 60px
+}
+
 .header-top {
     background: #1f2437;
     font-size: 14px;
@@ -1162,7 +1170,28 @@ button[type=submit] {
     box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, .05), -2px 0 5px 1px rgba(0, 0, 0, .05)
 }
 
+.sub-sub-menu {
+    position: absolute;
+    left: 0;
+    top: 90px;
+    width: 210px;
+    background-color: #fff;
+    border-top: 3px solid #70c150;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: all 600ms ease;
+    transition: all 600ms ease;
+    z-index: 99;
+    -webkit-box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, .05), -2px 0 5px 1px rgba(0, 0, 0, .05);
+    box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, .05), -2px 0 5px 1px rgba(0, 0, 0, .05)
+}
+
 #header-2 .sub-menu {
+    top: 80px
+}
+
+
+#header-2 .sub-sub-menu {
     top: 80px
 }
 
@@ -1172,7 +1201,19 @@ button[type=submit] {
     top: 90px
 }
 
+.main-menu li:hover .sub-sub-menu {
+    opacity: 1;
+    visibility: visible;
+    top: 90px
+}
+
 #header-2 .main-menu li:hover .sub-menu {
+    opacity: 1;
+    visibility: visible;
+    top: 80px
+}
+
+#header-2 .main-menu li:hover .sub-sub-menu {
     opacity: 1;
     visibility: visible;
     top: 80px
@@ -1205,6 +1246,38 @@ button[type=submit] {
 }
 
 .main-menu .sub-menu li:hover>a {
+    color: #70c150;
+    padding-left: 20px
+}
+
+
+.main-menu ul.sub-sub-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0
+}
+
+.main-menu .sub-sub-menu li {
+    display: block;
+    border-bottom: 1px solid #eee
+}
+
+.main-menu .sub-sub-menu li a {
+    font-size: 15px;
+    font-weight: 400;
+    display: block;
+    padding: 12px;
+    color: #191919;
+    -webkit-transition: .3s;
+    transition: .3s
+}
+
+.main-menu .sub-sub-menu li a i {
+    color: #70c150;
+    margin-right: 4px
+}
+
+.main-menu .sub-sub-menu li:hover>a {
     color: #70c150;
     padding-left: 20px
 }
@@ -2467,6 +2540,13 @@ p.privacy {
     color: #87c03d;
 
 }
+
+.service-icon img {
+    width: 100%;  /* Make the image responsive */
+    object-fit: cover;  /* Crop images to fit the container */
+    border-radius: 10px; /* Optional: add rounded corners */
+}
+
 
 .feat-content {
     padding: 30px 25px;

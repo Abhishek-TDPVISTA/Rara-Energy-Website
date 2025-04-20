@@ -161,53 +161,6 @@
 </div>
 
 
-<!-- <div class="container mt-5">
-    <div class="row">
-        <div class="offset-lg-2 col-lg-8 text-center">
-            <div class="section-title">
-                <h2>WHAT DO WE DO?</h2>
-                <div class="d-flex justify-content-center">
-                    <div style="width:40%; background: #70c150; border-radius: 20px; height: 5px;"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="card-deck mt-5">
-        <div class="card wow fadeInUp" data-wow-delay=".3s">
-            <img class="card-img-top" src="assets\img\hello-1.png" alt="Card image cap">
-            <div class="card-body">
-                <h5 class="card-title">HYDROGEN SIMULATION MODELING</h5>
-                <p class="card-text">Underground hydrogen storage in aquifers and depleted gas fields is viable for
-                    large-scale, secure storage. Depleted gas fields with impermeable cap rocks allow hydrogen injection
-                    and reuse of infrastructure.</p>
-            </div>
-
-        </div>
-        <div class="card wow fadeInUp" data-wow-delay=".3s">
-            <img class="card-img-top" src="assets/img/image/service_cards/card2.png" alt="Card image cap">
-            <div class="card-body">
-                <h5 class="card-title">CO2 SEQUESTRATION MODELING</h5>
-                <p class="card-text">Utilizing cutting-edge simulation techniques to predict the behaviour of CO2 in
-                    various geological formations, ensuring efficient and safe long-term storage. Comprehensive risk
-                    assessments, identifying potential leakage pathways and implementing mitigation strategies to ensure
-                    the integrity of storage sites.</p>
-            </div>
-
-        </div>
-        <div class="card wow fadeInUp" data-wow-delay=".3s">
-            <img class="card-img-top" src="assets/img/image/service_cards/card4.png" alt="Card image cap">
-            <div class="card-body">
-                <h5 class="card-title">CO2 ENHANCED OIL RECOVERY</h5>
-                <p class="card-text">Utilizing reservoir simulation and flow dynamics, our advanced models optimize CO2
-                    injection parameters, enhancing sweep efficiency and maximizing hydrocarbon extraction. Our models
-                    reduce operational costs by optimizing CO2 usage and improving the economic viability of mature oil
-                    fields.
-                </p>
-            </div>
-
-        </div>
-    </div>
-</div> -->
 
 <div class="about-area section-padding pt-120 pb-0">
     <div class="container">
@@ -307,14 +260,12 @@
                 <div class="single-serv-item mt-30 wow fadeInUp" data-wow-delay=".2s">
                     <div class="d-flex justify-content-center">
                         <div class="service-icon">
-                            <img src="assets/img/image/services/Picture5.jpg" alt="Carbon Capture Storage"
+                            <img src="assets/img/image/services/Picture3.jpg" alt="Carbon Capture Storage"
                                 class="img-fluid">
                         </div>
                     </div>
                     <div class="serv-content text-center mt-3" style="">
                         <h5>Carbon Capture Storage Solutions</h5>
-                        <!-- <p>Predict CO2 behavior and storage capacity in oil fields and aquifers for feasibility and
-                            risk. <br></p> -->
                     </div>
                 </div>
             </div>
@@ -322,68 +273,60 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="single-serv-item  mt-30 wow fadeInUp" data-wow-delay=".4s">
                     <div class="service-icon">
-                        <img src="assets/img/image/services/Picture2.jpg" alt="Carbon Capture Storage"
+                        <img src="assets/img/image/services/Picture1.jpg" alt="Carbon Capture Storage"
                             class="img-fluid">
                     </div>
                     <div class="serv-content text-center mt-3" style="">
                         <h5>Hydrogen Storage Modeling</h5>
-                        <!-- <p>Utilize existing infrastructure for efficient hydrogen storage in depleted reservoirs,
-                            reducing costs.</p> -->
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="single-serv-item mt-30 wow fadeInUp" data-wow-delay=".7s">
+                    <div class="service-icon">
+                        <img src="assets/img/image/services/Picture5.jpg" alt="Carbon Capture Storage"
+                            class="img-fluid">
+                    </div>
+                    <div class="serv-content text-center mt-3" style="">
+                        <h5>CO2 Storage and Sequestration Modelling</h5>
                     </div>
 
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="single-serv-item mt-30 wow fadeInUp" data-wow-delay=".6s">
-                <div class="service-icon">
-                        <img src="assets/img/image/services/Picture3.jpg" alt="Carbon Capture Storage"
+                    <div class="service-icon">
+                        <img src="assets/img/image/services/Picture2.jpg" alt="Carbon Capture Storage"
                             class="img-fluid">
                     </div>
                     <div class="serv-content text-center mt-3" style="">
-                        <h5>Feasibility Studies and Screening</h5>
-                        <!-- <p>Conduct thorough feasibility studies to assess the viability of energy storage projects.</p> -->
-                    </div>
-
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="single-serv-item mt-30 wow fadeInUp" data-wow-delay=".7s">
-                <div class="service-icon">
-                        <img src="	assets/img/hello%20.png" alt="Carbon Capture Storage"
-                            class="img-fluid">
-                    </div>
-                    <div class="serv-content text-center mt-3" style="">
-                        <h5>CO2 Storage and Sequestration Modelling</h5>
-                        <!-- <p>Using advanced simulation, predict CO2 behavior in geological formations for efficient and
-                            safe long-term storage.</p> -->
+                        <h5>Feasibility Studies and Screening <br> <br> </h5>
                     </div>
 
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="single-serv-item mt-30 wow fadeInUp" data-wow-delay=".8s">
-                <div class="service-icon">
-                        <img src="assets/img/image/services/Picture3.jpg" alt="Carbon Capture Storage"
-                            class="img-fluid">
+                    <div class="service-icon">
+                        <img src="assets\img\hello .png" alt="Carbon Capture Storage" class="img-fluid">
                     </div>
                     <div class="serv-content text-center mt-3" style="">
                         <h5>CO2 Enhanced Oil Recovery (EOR) Modelling</h5>
-                        <!-- <p>Models optimize CO2 injection, enhancing sweep efficiency and maximizing extraction using -->
-                            <!-- reservoir simulation. </p> -->
                     </div>
 
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="single-serv-item  mt-30 wow fadeInUp" data-wow-delay=".9s">
-                <div class="service-icon">
-                        <img src="assets/img/image/services/Picture3.jpg" alt="Carbon Capture Storage"
+                    <div class="service-icon">
+                        <img src="assets/img/image/services/Picture4.jpg" alt="Carbon Capture Storage"
                             class="img-fluid">
                     </div>
                     <div class="serv-content text-center mt-3" style="">
                         <h5>Classical Industry Standard Modelling and Studies</h5>
-                        <!-- <p>Tailored modelling, recognized techniques, and comprehensive solutions for greenfield and
-                            brownfield.</p> -->
                     </div>
 
                 </div>
@@ -397,6 +340,7 @@
         </div>
     </div>
 </div>
+
 
 
 
@@ -513,88 +457,141 @@
     </div>
 </div>
 
-
-
 <div class="client-area pt-50 pb-40">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div id="logoCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2000">
                     <div class="carousel-inner">
+                        <!-- First slide - 3 images -->
                         <div class="carousel-item active">
-                            <div class="single-logo-wrapper">
-                                <div class="logo-inner-item">
-                                    <a href="https://www.greenfield.energy/" target="_blank">
-                                        <img src="assets/img/image/partners/gets .png" class="d-block w-100" alt>
-                                    </a>
+                            <div class="row justify-content-center">
+                                <div class="col-lg-4 col-md-4 col-sm-6">
+                                    <div class="single-logo-wrapper">
+                                        <a href="https://www.greenfield.energy/" target="_blank">
+                                            <img src="assets\img\image\partners\gets .png" class="d-block w-100"
+                                                alt="Greenfield Energy">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4 col-sm-6">
+                                    <div class="single-logo-wrapper">
+                                        <a href="https://solutions.geomodl.com/" target="_blank">
+                                            <img src="assets\img\image\partners\geomodel.png" class="d-block w-100"
+                                                alt="Geomodel">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4 col-sm-6">
+                                    <div class="single-logo-wrapper">
+                                        <a href="https://www.iitism.ac.in/" target="_blank">
+                                            <img src="assets/img/image/partners/dhanbad.jpg" class="d-block w-100"
+                                                alt="IIT Dhanbad">
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
+                        <!-- Second slide - 3 images -->
                         <div class="carousel-item">
-                            <div class="single-logo-wrapper">
-                                <div class="logo-inner-item">
-                                    <a href="https://solutions.geomodl.com/" target="_blank">
-                                        <img src="assets/img/image/partners/geomodel.png" class="d-block w-100" alt>
-                                    </a>
+                            <div class="row justify-content-center">
+                                <div class="col-lg-4 col-md-4 col-sm-6">
+                                    <div class="single-logo-wrapper">
+                                        <a href="http://goe-group.com/" target="_blank">
+                                            <img src="assets\img\image\partners\geomodel.png" class="d-block w-100"
+                                                alt="GOE Group">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4 col-sm-6">
+                                    <div class="single-logo-wrapper">
+                                        <a href="https://example.com/" target="_blank">
+                                            <img src="assets\img\image\partners\Türkiye Petrolleri.svg"
+                                                class="d-block w-100"
+                                                style="max-height: 100px; max-width: 100%; object-fit: contain;"
+                                                alt="Partner 1">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4 col-sm-6">
+                                    <div class="single-logo-wrapper">
+                                        <a href="https://example.com/" target="_blank">
+                                            <img src="assets\img\image\partners\telesto.png" class="d-block w-100"
+                                            style="max-height: 100px; max-width: 100%; object-fit: contain;" alt="Partner 1">
+
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="carousel-item">
-                            <div class="single-logo-wrapper d-flex align-items-center justify-content-center"
-                                style="height: 250px;">
-                                <div class="logo-inner-item">
-                                    <a href="https://www.iitism.ac.in/" target="_blank">
-                                        <img src="assets/img/image/partners/dhanbad.jpg" class="d-block "
-                                            style="width: 200px; height: 200;" alt>
-                                    </a>
+                        <!-- Third slide - 2 images (or add a third placeholder) -->
+                        <!-- <div class="carousel-item">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-4 col-md-4 col-sm-6">
+                                    <div class="single-logo-wrapper">
+                                        <a href="https://example.com/" target="_blank">
+                                            <img src="assets/img/image/partners/partner3.png" class="d-block w-100" alt="Partner 3">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4 col-sm-6">
+                                    <div class="single-logo-wrapper">
+                                        <a href="https://example.com/" target="_blank">
+                                            <img src="assets/img/image/partners/partner4.png" class="d-block w-100" alt="Partner 4">
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="carousel-item">
-                            <div class="single-logo-wrapper">
-                                <div class="logo-inner-item p-2" style="background-color: rgb(15, 76, 110);">
-                                    <a href="http://goe-group.com/" target="_blank">
-                                        <img src="assets/img/image/partners/goelogo.png" class="d-block w-100" alt>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
+                    </div> -->
+                        <!-- Carousel Indicators -->
+                        <!-- <div class="carousel-indicators">
+                        <button type="button" data-bs-target="#logoCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#logoCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#logoCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                    </div> -->
+                        <!-- Carousel Controls -->
+                        <!-- <button class="carousel-control-prev" type="button" data-bs-target="#logoCarousel" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button> 
+                    <button class="carousel-control-next" type="button" data-bs-target="#logoCarousel" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                         <span class="visually-hidden">Next</span>
+                    </button>  -->
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
+    <?php include_once('components/footer.php'); ?>
 
 
-<?php include_once('components/footer.php'); ?>
+    <script>
+        jQuery('#gallery').carousel({
+            interval: 3000
+        })
 
-
-<script>
-    jQuery('#gallery').carousel({
-        interval: 3000
-    })
-
-    // Modify each slide to contain five columns of images
-    jQuery('#gallery.carousel .carousel-item').each(function () {
-        var minPerSlide = 2;
-        var next = jQuery(this).next();
-        if (!next.length) {
-            next = jQuery(this).siblings(':first');
-        }
-        next.children(':first-child').clone().appendTo(jQuery(this));
-
-        for (var i = 0; i < minPerSlide; i++) {
-            next = next.next();
+        // Modify each slide to contain five columns of images
+        jQuery('#gallery.carousel .carousel-item').each(function () {
+            var minPerSlide = 2;
+            var next = jQuery(this).next();
             if (!next.length) {
                 next = jQuery(this).siblings(':first');
             }
-
             next.children(':first-child').clone().appendTo(jQuery(this));
-        }
-    });
 
-    // Initialize carousel
-    jQuery(".carousel-item:first-of-type").addClass("active");
-    jQuery(".carousel-indicators:first-child").addClass("active");
-</script>
+            for (var i = 0; i < minPerSlide; i++) {
+                next = next.next();
+                if (!next.length) {
+                    next = jQuery(this).siblings(':first');
+                }
+
+                next.children(':first-child').clone().appendTo(jQuery(this));
+            }
+        });
+
+        // Initialize carousel
+        jQuery(".carousel-item:first-of-type").addClass("active");
+        jQuery(".carousel-indicators:first-child").addClass("active");
+    </script>
