@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="breadcroumb-title">
-                    <h1>Field development Planning</h1>
+                    <h1>Sakarya Gas Field </h1>
                     <h6><a href="index.html">Home</a> <i class="far fa-dot-circle"></i>Project's</h6>
                 </div>
             </div>
@@ -23,16 +23,22 @@
                     <img src="assets/img/image/services/Picture4.jpg" class="w-100" alt>
                     <div class="blog-meta">
                         <span class="mr-3"><i class="far fa-user-circle"></i>Rara Energy</span>
-                        <span class="mr-3"><i class="far fa-calendar-alt"></i> Field Development Planning Project</span>
+                        <span class="mr-3"><i class="far fa-calendar-alt"></i> Sakarya Gas Field Project</span>
                     </div>
-                    <h2 style="color:green">Field Development Planning</h2>
+                    <h2 style="color:green">Sakarya Gas Field – Integrated Reservoir and Asset Modeling
+                    </h2>
                     <p class="mt-2 mb-4">
-                    At Rara Energy, we specialize in developing comprehensive field development plans for complex reservoirs, even in challenging environments like the Black Sea basin. Our recent work involves a large, technically demanding project characterized by deep-water turbidite sands and intricate geological formations. Leveraging advanced simulation models, we conduct meticulous history matching to forecast production profiles and estimate end-of-life reserves with high precision.<br>
-                     Our expertise allows us to navigate the unique challenges of these complex reservoirs, ensuring accurate production forecasts and optimized reserves management. We’re committed to innovation and excellence in reservoir modeling, empowering sustainable energy solutions in technically challenging regions.
-                    </p>
+                        Developed an integrated reservoir and asset model for the Sakarya Gas Field, Turkey’s largest
+                        natural gas discovery. The project involved building a dynamic simulation using Petrel RE and
+                        INTERSECT, calibrated with SLB’s IAM software to enhance forecasting accuracy and reduce
+                        simulation runtime by approximately 30%. The coupled model enabled scenario-based development
+                        planning and efficient decision-making for Turkish Petroleum (TPAO). Key contributions included
+                        reservoir upscaling, history matching, integration of forecast tables, and strategic input
+                        across subsurface workflows, seismic acquisition, and well planning—supporting a development
+                        expected to supply around 30% of Turkey’s natural gas demand.</p>
                     <div class="row wow fadeInUp" data-wow-delay=".3s">
                         <div class="col-lg-6 mb-30">
-                            <img class="blog-inside" src="/assets/img/BlackSea.jpg" >
+                            <img class="blog-inside" src="/assets/img/BlackSea.jpg">
                         </div>
                     </div>
                 </div>

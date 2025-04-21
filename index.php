@@ -202,44 +202,38 @@
     <div class="overlay-2"></div>
     <div class="container">
         <div class="row d-flex justify-content-center align-items-center">
-
-            <div class="col-lg-2 col-md-6 col-sm-6">
+            <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="single-counter-box wow fadeInLeft" data-wow-delay=".4s">
                     <div class="about-fact-icon"><i class="fal fa-user-friends"></i></div>
                     <p class="counter-number"><span>100</span>+</p>
                     <h6>Years Subject <br> Matter Expertise </h6>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-6 col-sm-6">
+            <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="single-counter-box wow fadeInLeft" data-wow-delay=".4s">
                     <div class="about-fact-icon"><i class="fas fa-chalkboard"></i></div>
-                    <p class="counter-number"><span>2</span></p>
+                    <p class="counter-number"><span>3</span></p>
                     <h6>Active Projects</h6>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-6 col-sm-6">
+            <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="single-counter-box wow fadeInLeft" data-wow-delay=".4s">
                     <div class="about-fact-icon"><i class="fal fa-globe"></i></div>
                     <p class="counter-number"><span>5</span>+</p>
                     <h6>Countries</h6>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-6 col-sm-6">
+            <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="single-counter-box wow fadeInLeft" data-wow-delay=".8s">
                     <div class="about-fact-icon"><i class="fas fa-map-marker-alt"></i></div>
-                    <!-- <div class="row justify-content-center align-items-center">
-                            <div class="col-md-7"><p class="counter-number"><span>15</span>+</p></div>
-                            <div class="col-md-5"><span style="color:white; text-align: left;">basins</span></div>
-
-                        </div> -->
                     <p class="counter-number"><span>15</span>+</p>
                     <h6>Basins <br> Founders Experience</h6>
                 </div>
             </div>
-
         </div>
     </div>
 </div>
+
 
 
 <div id="service-1" class="services-area gray-bg section-padding">

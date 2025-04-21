@@ -43,8 +43,7 @@
                                             <ul class="sub-menu">
                                                 <li><a href="/hydrogen.php"></i>Hydrogen
                                                         Project</a></li>
-                                                <li><a href="/field.php"></i>Field Development
-                                                        Planning</a></li>
+                                                <li><a href="/field.php"></i>Sakarya Gas Field</a></li>
                                                 <li><a href="/simulation.php"></i>Simulation
                                                         Studies</a></li>
                                             </ul>
@@ -69,7 +68,7 @@
                                             </ul>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#">Highlights 
+                                            <a class="nav-link" href="#">Highlights
                                                 <i class="far fa-angle-down"></i>
                                             </a>
                                             <ul class="sub-menu">
@@ -91,7 +90,7 @@
                                                         Energy Podcast
                                                     </a>
                                                 </li>
-                                               
+
                                             </ul>
                                         </li>
                                         <li class="nav-item">

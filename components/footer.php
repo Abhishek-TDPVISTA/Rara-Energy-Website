@@ -7,27 +7,29 @@
                         <img src="assets/img/image/logo/rarawhite.png" alt="fossil-logo">
                     </div>
                     <p class="mt-2">
-                    where innovation meets sustainability to unlock the full potential of renewable energy.
-                    </p><div
-                        class="social-area">
-                        <a href="https://www.linkedin.com/company/rara-energy/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                        where innovation meets sustainability to unlock the full potential of renewable energy.
+                    </p>
+                    <div class="social-area">
+                        <a href="https://www.linkedin.com/company/rara-energy/" target="_blank"><i
+                                class="fab fa-linkedin"></i></a>
                     </div>
                 </div>
-                <div class="col-lg-2 offset-lg-1 col-md-6 com-sm-12">
+                <div class="col-lg-2 offset-lg-1 col-md-6 col-sm-12 text-center mx-auto">
                     <h5>Quick Browse</h5>
-                    <ul>
+                    <ul class="list-unstyled">
                         <li>
-                            <a href="about.php">  About Us</a>
-                            <a href="services.php"> Services</a>
-                            <a href="project.php"> Projects</a>
-                            <a href="contact.php"> Contact</a>
-                            <a href="career.php">Career</a>
-                            <a href="team.php">Our Team</a>
+                            <a href="about.php"> About Us</a><br>
+                            <a href="services.php"> Services</a><br>
+                            <a href="project.php"> Projects</a><br>
+                            <a href="contact.php"> Contact</a><br>
+                            <a href="career.php">Career</a><br>
+                            <a href="team.php">Our Team</a><br>
                             <a href="partners.php">Our Partner</a>
                         </li>
                     </ul>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
+
+                <div class="col-lg-3 col-md-6 col-sm-12 d-none d-md-block">
                     <h5>Services</h5>
                     <ul>
                         <li>
@@ -71,7 +73,7 @@
 
 <script data-cfasync="false"
     src="https://themes.themewild.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-    
+
 <script src="assets/js/jquery-3.6.0.min.js"></script>
 
 <script src="assets/js/bootstrap.bundle.min.js"></script>
