@@ -1,12 +1,7 @@
 <?php include_once('components/header.php'); ?>
 <?php include_once('components/navbar.php'); ?>
 
-<style>
-    .customCared {
-        height: 16rem;
 
-    }
-</style>
 <div class="homepage-slides owl-carousel">
     <div class="single-slide-item" style="background-image: url(assets/img/car11.jpg);">
         <div class="overlay"></div>
@@ -226,8 +221,8 @@
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="single-counter-box wow fadeInLeft" data-wow-delay=".8s">
                     <div class="about-fact-icon"><i class="fas fa-map-marker-alt"></i></div>
-                    <p class="counter-number"><span>15</span>+</p>
-                    <h6>Basins <br> Founders Experience</h6>
+                    <p class="counter-number"><span>50</span>+</p>
+                    <h6>Basins </h6>
                 </div>
             </div>
         </div>
@@ -334,11 +329,6 @@
         </div>
     </div>
 </div>
-
-
-
-
-
 
 <div class="blog-area gray-bg section-padding">
     <div class="container">
@@ -451,6 +441,38 @@
     </div>
 </div>
 
+<!-- Button trigger modal -->
+<button type="button" id="modalbutton" class="d-none btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+  Launch demo modal
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Carbon Capture Utilization & Storage (CCUS)</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img src="assets\img\image\traning\ccus_traning.png" class="img-fluid" alt="CCUS">
+        
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" ><a href="assets\pdf\Subsurface Storage for the CCUS Pro (ISM Certification) v2.pdf"> Read More</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+    window.onload = function () {
+        document.getElementById('modalbutton').click();
+    };
+</script>
+
+
 <div class="client-area pt-50 pb-40">
     <div class="container">
         <div class="row">
@@ -463,7 +485,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6">
                                     <div class="single-logo-wrapper">
                                         <a href="https://www.greenfield.energy/" target="_blank">
-                                            <img src="assets\img\image\partners\gets .png" class="d-block w-100"
+                                            <img src="assets\img\image\partners\gets.png" class="d-block w-100"
                                                 alt="Greenfield Energy">
                                         </a>
                                     </div>
@@ -511,7 +533,8 @@
                                     <div class="single-logo-wrapper">
                                         <a href="https://example.com/" target="_blank">
                                             <img src="assets\img\image\partners\telesto.png" class="d-block w-100"
-                                            style="max-height: 100px; max-width: 100%; object-fit: contain;" alt="Partner 1">
+                                                style="max-height: 100px; max-width: 100%; object-fit: contain;"
+                                                alt="Partner 1">
 
                                         </a>
                                     </div>

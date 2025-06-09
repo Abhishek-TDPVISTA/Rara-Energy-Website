@@ -3914,40 +3914,6 @@ img {
 }
 
 
-/* modal mods */
-.modal {
-    background: rgba(34, 49, 63, 0.9);
-}
-
-.modal-dialog {
-    max-width: 80% !important;
-}
-
-.modal-header {
-    border: none !important;
-}
-
-.modal-content {
-    border: none !important;
-    border-radius: 0 !important;
-    background-color: transparent !important;
-}
-
-.modal-body {
-    padding: 0 !important;
-}
-
-.close img {
-    max-width: 40px;
-    max-height: 40px;
-}
-
-.modal-footer {
-    padding: 2rem 0;
-    border: none !important;
-}
-
-
 
 /* bootstrap mod addons */
 .w-90 {

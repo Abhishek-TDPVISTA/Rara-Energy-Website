@@ -34,7 +34,7 @@
                                             <a class="nav-link" href="index.php">Home</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="services.php">Services</a>
+                                            <a class="nav-link" href="services.php">Consultancy</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" href="#">Projects

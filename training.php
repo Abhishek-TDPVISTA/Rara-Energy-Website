@@ -90,6 +90,66 @@
         </div>
 
 
+        <div class="card mt-5" style="border-radius: 15px; position: relative;">
+
+            <!-- LIVE Badge -->
+            <span style="
+        position: absolute;
+        top: -10px;
+        left: -10px;
+        background-color: red;
+        color: white;
+        padding: 6px 12px;
+        font-size: 14px;
+        font-weight: bold;
+        border-radius: 0 10px 10px 0;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        z-index: 10;
+    ">
+                🔴 Live
+            </span>
+
+            <div class="card-body">
+                <div class="row wow fadeInUp" data-wow-delay=".3s">
+                    <div class="col-md-4">
+                        <img src="assets/img/image/services/0.jpg" alt="Profile Image" class="profile-img service_img"
+                            style="box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;">
+                    </div>
+                    <div class="col-md-8">
+                        <h3 class="profile-header fs-1 mb-1 mt-4 text-center" style="color: #7FBD41;">
+                            <span class="font-weight-bold">RARA Energy CCUS Pro :</span><br>4 days advanced course on
+                            CCUS
+                        </h3>
+                        <ul class="list-group list-group-flush custom-list">
+                            <li class="list-group-item">
+                                <p>Day 1 — The Carbon Challenge emissions at their source.</p>
+                            </li>
+                            <li class="list-group-item">
+                                <p>Day 2 — Reservoir </p>
+                            </li>
+                            <li class="list-group-item">
+                                <p>Day 3 — Facilities + Wells</p>
+                            </li>
+                            <li class="list-group-item">
+                                <p>Day 4 — Case Study </p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div id="hydrogen" class="text-center traning-btn">
+                    <button class="main-btn">
+                        <a href="/contact.php">Contact Us</a>
+                    </button>
+                    <button class="main-btn">
+                        <a href="assets\pdf\Subsurface Storage for the CCUS Pro (ISM Certification) v2.pdf"
+                            target="_blank">Brochure</a>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+
+
         <div class="card mt-5" style="border-radius: 15px;">
             <div class="card-body">
                 <div class="row wow fadeInUp" data-wow-delay=".3s">
@@ -128,47 +188,6 @@
         </div>
 
 
-        <div class="card mt-5" style="border-radius: 15px;">
-            <div class="card-body">
-                <div class="row wow fadeInUp" data-wow-delay=".3s">
-                    <div class="col-md-4">
-                        <img src="assets\img\image\services\0.jpg" alt="Profile Image" class="profile-img service_img"
-                            style="box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;">
-                    </div>
-                    <div class="col-md-8">
-                        <h3 class="profile-header fs-1 mb-1  mt-4 text-center" style="color: #7FBD41;">
-                            <span class="font-weight-bold "> RARA Energy CCUS Pro :</span> <br> 4 days
-                            advanced course on CCUS
-                        </h3>
-                        <ul class="list-group list-group-flush custom-list">
-                            <li class="list-group-item">
-                                <p>
-                                    Day 1 — The Carbon Challenge
-                                    emissions at their source.</p>
-                            </li>
-                            <li class="list-group-item">
-                                <p>Day 2 — Reservoir </p>
-                            </li>
-                            <li class="list-group-item">
-                                <p>Day 3 — Facilities + Wells</p>
-                            </li>
-                            <li class="list-group-item">
-                                <p>Day 4 — Case Study </p>
-                            </li>
-                        </ul>
-
-                    </div>
-                </div>
-                <div id="hydrogen" class="text-center traning-btn">
-                    <button class="main-btn">
-                        <a href="/contact.php">Contact Us</a>
-                    </button>
-                    <button class="main-btn">
-                        <a href="assets/pdf/RARA Energy CCUS Pro.pdf" target="_blank">Brochure</a>
-                    </button>
-                </div>
-            </div>
-        </div>
 
 
 

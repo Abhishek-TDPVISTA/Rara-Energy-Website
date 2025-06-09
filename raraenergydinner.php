@@ -6,9 +6,9 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="breadcroumb-title">
-                    <h1>Event in Abu Dhabi At UAE
+                    <h1>Networking Event in Abu Dhabi
                     </h1>
-                    <h6><a href="index.php">Home</a> <i class="far fa-dot-circle"></i>Event in Abu Dhabi At UAE</h6>
+                    <h6><a href="index.php">Home</a> <i class="far fa-dot-circle"></i>Networking Event in Abu Dhabi</h6>
                 </div>
             </div>
         </div>
@@ -71,7 +71,7 @@
                             </div>
                         </div>
                     </div>
-                    <h2>Event in Abu Dhabi At UAE</h2>
+                    <h2>Networking Event in Abu Dhabi</h2>
                     <p>
                         Rara Energy recently hosted a transformative event on energy transition, uniting industry
                         leaders, innovators, and stakeholders to shape the future of sustainable energy. The event
